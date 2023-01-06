@@ -1,0 +1,34 @@
+id: A8EB66878
+title: Prayer for the Long Life of His Holiness the Dalai Lama
+type: translation
+pechas:
+- IA4C3C2A8
+- IA8E21C13
+- I82D78F57
+- IFAFCE9AA
+- IB5500963
+- I1B415785
+- I37358D61
+source_metadata:
+  languages:
+  - en
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:53:18.464458
+  last_modified_at: 2023-01-04 11:53:18.464474
+  collections:
+  - Fourteenth Dalai Lama Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IA4C3C2A8/C881: 4E5C
+  IA8E21C13/7827: 4E5C
+  I82D78F57/7356: 4E5C
+  IFAFCE9AA/4148: 4E5C
+  IB5500963/AE76: 4E5C
+  I1B415785/8F1E: 4E5C
+  I37358D61/757D: 4E5C
